@@ -4,6 +4,6 @@
 
 Дождитесь загрузки гифки
 
-![alt text](https://github.com/denfad/MathWaveRelease/blob/main/recording.gif)
+![](https://github.com/denfad/MathWaveRelease/blob/main/recording.gif)
 
 
